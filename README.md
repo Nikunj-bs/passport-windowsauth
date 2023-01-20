@@ -1,5 +1,5 @@
 Windows Authentication strategy for Passport.js.
-
+Passport version upgraded to 0.6.0
 ## Install
 
     npm install passport-windowsauth
