@@ -1,6 +1,6 @@
 {
   "name": "passport-latest-windowsauth",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Passport strategy for Windows Integrated Authentication (NTLM)",
   "main": "lib/strategy.js",
   "scripts": {
@@ -21,8 +21,8 @@
   "author": "Nikunj <nikunj.sondagar@bombaysoftware.com>",
   "license": "MIT",
   "dependencies": {
-    "passport": "~0.6.0",
-    "ldapjs": "~1.0.0"
+    "ldapjs": "~1.0.0",
+    "passport": "~0.6.0"
   },
   "devDependencies": {
     "chai": "~1.5.0",
