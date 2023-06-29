@@ -1,6 +1,6 @@
 {
   "name": "passport-latest-windowsauth",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Passport strategy for Windows Integrated Authentication (NTLM)",
   "main": "lib/strategy.js",
   "scripts": {
